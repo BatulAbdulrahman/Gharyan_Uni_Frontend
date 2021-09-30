@@ -1,0 +1,362 @@
+.head{
+	height: 27px;
+	background: #222;
+	width: 100%;
+    padding: 10px;
+    position: relative;
+}
+.search{
+       height: 40px;
+        color: whitesmoke;
+        float: right; 
+        margin-top: -10px;
+        background:#222;
+    }
+
+.grad{
+
+        width: 100%;
+        height: auto;
+        font-size: 18px;
+        display: flex;
+        align-items: left;
+        justify-content: center;
+    }
+    .grad ul
+    {
+    	color: whitesmoke;
+        display: inline-flex;
+        list-style: none;
+        color:white;
+        padding-left: 35px;
+        
+    }
+    .grad ul li{
+        list-style: none;
+        display: inline-block;
+        width: 130px;
+        margin-top: -50px;
+    }
+    .grad ul li a
+    {
+        text-decoration: none;
+        color:white;
+        word-spacing: 20px;
+    }
+.grad ul li a:hover{
+    color: darkred;
+    transition: 1.5s;
+    }
+img{
+	height:35px;
+	margin-top: 33px;
+}
+.date{
+	float: left;
+	padding: 10px;
+	color: #999;
+}
+.div{
+	height: 100px;
+	border: 1px solid whitesmoke;
+}
+.loggo{
+	height: 200px;
+	margin-top: -50px;
+}
+.menu-bar
+{
+    background:#444;
+    text-align: center;
+}
+.menu-bar-nocontent
+{
+    background:whitesmoke;
+    text-align: center;
+}
+.menu-bar-nocontent  ul
+{
+    display: inline-flex;
+    list-style: none;
+    padding-right:30px;
+}
+.menu-bar ul
+{
+    display: inline-flex;
+    list-style: none;
+    padding-right:30px;
+}
+.menu-bar-nocontent ul li
+{
+    width: 150px;
+    margin: 0px;
+    padding:10px;
+}
+.menu-bar ul li
+{
+    width: 150px;
+    margin: 0px;
+    padding:10px;
+}
+.menu-bar-nocontent ul li a
+{
+font-family: arial , tahoma;
+text-decoration: none;
+color:darkred;
+}
+.menu-bar ul li a
+{
+font-family: Batang;
+text-decoration:none;
+color:#333;
+}
+.menu-bar-nocontent ul li a:hover
+{
+transition: 1s;
+color:whitesmoke;
+}
+.menu-bar ul li a:hover
+{
+transition: 2s;
+color:whitesmoke;
+}
+
+.collage a{
+	text-decoration: none;
+	color: darkred;
+	line-height: 55px;
+}
+.collage a:hover{
+	text-decoration: none;
+	color: #444;
+	font-size:40px;
+}
+.divhr{
+	border:3px solid darkred;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	width: 30%;
+}
+.divhr0{
+	border:3px solid darkred;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	width: 15%;
+}
+.divhr1{
+	border:3px solid darkred;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	width: 40%;
+}
+.divhr2{
+	border:3px solid darkred;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	width: 60%;
+}
+.divhr3{
+	border:3px solid darkred;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	width: 85%;
+}
+.divhr4{
+	border:3px solid darkred;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	width: 95%;
+}
+.divhr5{
+	border:3px solid darkred;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	width: 50%;
+}
+.divhr6{
+	border:3px solid darkred;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	width: 45%;
+}
+.divhr7{
+	border:3px solid darkred;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	width: 75%;
+}
+.aa{
+	text-decoration: none;
+	color: darkred;
+}
+.aa:hover{
+	text-decoration:underline;
+	color: black;
+}
+.immg{
+	height: 50%;
+	width:80%;
+	float: center;
+	
+}
+.span{
+	font-size: 20px;
+}
+p{
+	font-family: Arial ;
+	line-height: 20px;
+}
+ul li {
+	font-family: Arial;
+	line-height: 20px;
+}
+h3{
+	color: #555;
+}
+.pargraf{
+	margin: -50px 10px 70px;
+}
+#h{
+	padding: 20px;
+	float: left;
+}
+.links{
+	color: whitesmoke;
+	background: #777;
+	height: 400px;
+	border: 1px solid #222;
+}
+#hh{
+	float: right;
+	padding: 50px;
+}
+.card{
+	padding: 100px;
+	border: 1px solid black;
+	height: 80%;
+	margin-left: 100px;
+	margin-right: 100px;
+	background: whitesmoke;
+	margin-top: 10px;
+}
+.colorpage{
+	background: #202020;
+	height: 100%;
+}
+/*start footer*/
+#footer-area{
+    color: #d2d7d3;
+    background:#202020;
+    text-align: center;
+    height: 200px;
+    font-family: 'Merriweather Light', 'Times New Roman', serif;
+    font-weight: 15;
+    font-style: normal;
+    position: relative;
+}
+.footer-content{
+    width: 100%;
+    font-size: 1em;
+    position: relative;
+    display: inline-flex; 
+}
+.footer-content .first{
+    float: left;
+    width: 33.33%;
+    height: 103px;
+    border-style: solid;
+    border-color: #d2d7d3;;
+    border-width: 1px;
+    padding-top: 35px;
+    padding-right: 15px;
+    font-family: 'Merriweather Sans Light', Arial, sans-serif;
+}
+.footer-content .second{
+    float: left;
+    width: 33.33%;
+    height: 118px;
+    border-style: solid;
+    border-color: #d2d7d3;
+    border-width: 1px;
+    padding-top: 20px;
+    padding-right: 15px;
+}
+.footer-content .second ul{
+    list-style: none;
+}
+.footer-content .second ul li{
+    list-style: none;
+    display: inline-flex;
+    padding-right: 15px;
+    line-height: 1.75em;
+}
+.footer-content .second ul li a{
+    color: #d2d7d3;
+    text-decoration: none;
+}
+.footer-content .second ul li a:hover{
+    border-bottom: 1px solid #d2d7d3;
+}
+.footer-content .third{
+    float: left;
+    width: 33.33%;
+    height: 103px;
+    border-style: solid;
+    border-color: #d2d7d3;
+    border-width: 1px;
+    padding-top: 35px;
+}
+.footer-content .third ul{    
+}
+.footer-content .third ul li{
+    display: inline-flex; 
+    margin: 10px;
+}
+.footer-content .third ul li a{
+    color: #d2d7d3;
+    text-decoration: none;
+}
+.last{
+    width: 100%;
+    height: 100px;
+    font-family: 'Merriweather Sans Light', Arial, sans-serif;
+    border-style: solid;
+    border-color: #d2d7d3;
+    border-width: 1px;
+    background: #202020;
+}
+/*end footer*/
+body{
+	background: whitesmoke;
+}
+.background{
+	background: #202020;
+	height: 100%;
+    padding:5px;
+}
+.count1
+{
+	padding: 90px;
+	height: 90%;
+	margin-left: 250px;
+	margin-right: 250px;
+	background:whitesmoke;
+	margin-top: 80px;
+}
+.count1 h1
+{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	color: #131313;
+	text-align: center;
+	margin-top: 20px;
+    border-bottom:3px soild darkred;
+}
