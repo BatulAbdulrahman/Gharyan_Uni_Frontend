@@ -4,6 +4,8 @@ Project for College
 some designs from website
 
 <p align="center">
-  <img src="flutter_universe.png" alt="flutter minimal ui" title="Screenshot">
+  <img src="1.png" title="Screenshot">
+    <img src="2.png" title="Screenshot">
+    <img src="3.png" title="Screenshot">
 </p>
 
